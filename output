@@ -1,0 +1,21 @@
+----------------------------------
+Stack memory location : 0x6f1b5ff95c, value : 4
+Stack memory location : 0x6f1b5ff91c, value : 3
+Stack memory location : 0x6f1b5ff8dc, value : 2
+Stack memory location : 0x6f1b5ff89c, value : 1
+Stack memory location : 0x6f1b5ff85c, value : 0
+Sum of 1 to 5 minus 5 is : 10
+----------------------------------
+----------------------------------
+Heap memory location 1 : 0x1b73c8cfd20, value : 10
+Heap memory location 2 : 0x1b73c8cd100, value : 40
+Heap memory location 3 : 0x1b73c8cd120, value : 50
+----------------------------------
+----------------------------------
+Global memory location 1 : 0x7ff7c7733000, value : 123
+Global memory location 2 : 0x7ff7c7733004, value : 456
+Global memory location 3 : 0x7ff7c7733008, value : 789
+Unintial memory location 1 : 0x7ff7c7737030, value : 0
+Unintial memory location 2 : 0x7ff7c7737034, value : 0
+Unintial memory location 2 : 0x7ff7c7737038, value : 0
+----------------------------------
